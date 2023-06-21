@@ -1,0 +1,10 @@
+C:/flutter_apps/namer_app/namer_app/build/windows/CMakeFiles/INSTALL.dir
+C:/flutter_apps/namer_app/namer_app/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/flutter_apps/namer_app/namer_app/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/flutter_apps/namer_app/namer_app/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/flutter_apps/namer_app/namer_app/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/flutter_apps/namer_app/namer_app/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/flutter_apps/namer_app/namer_app/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/flutter_apps/namer_app/namer_app/build/windows/runner/CMakeFiles/namer_app.dir
+C:/flutter_apps/namer_app/namer_app/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/flutter_apps/namer_app/namer_app/build/windows/runner/CMakeFiles/ALL_BUILD.dir
