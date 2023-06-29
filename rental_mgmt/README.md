@@ -1,6 +1,6 @@
 # rental_mgmt
 
-A new Flutter project.
+A new Flutter project for Rental Management
 
 ## Getting Started
 
